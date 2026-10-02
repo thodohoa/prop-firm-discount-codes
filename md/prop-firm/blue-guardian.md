@@ -1,13 +1,13 @@
-# Blue Guardian - discount code PFD (Up to 30% off)
+# Blue Guardian - discount code PFD (Up to 25% off)
 
 > At Blue Guardian Futures , we strive to aid skilful and experienced traders to maximise their talent to full potential and secure a funded account with us. We came to understand that an edge in the financial market requires both sufficient capital and a well developed strategy.
 Therefore, our goal became clear as we seek to find and accredit smart traders giving them the potential to make a sufficient income. Aiding them with a helping hand, a hand which may set them one step closer to financial freedom.
 
 - Code: PFD
-- Discount: Up to 30% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 25% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last verified: 2026-08-17
-- Trustpilot: 3.6/5 (2189 reviews)
+- Trustpilot: 3.3/5 (2095 reviews)
 - Activate: https://propfirmdiscount.com/go/blueguardian
 - Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

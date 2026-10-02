@@ -8,7 +8,7 @@ At thePropTrade, we believe in simplicity, transparency and sustainability when 
 - Discount: Up to 20% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last verified: 2026-07-06
-- Trustpilot: 3.3/5 (87 reviews)
+- Trustpilot: 3.7/5 (109 reviews)
 - Activate: https://propfirmdiscount.com/go/theproptrade
 - Firm page: https://propfirmdiscount.com/prop-firm/the-prop-trade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

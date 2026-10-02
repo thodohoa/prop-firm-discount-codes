@@ -11,16 +11,16 @@ Trade fairly. Trade freely. Trade Finotive.
 - Code: JACKICHUN
 - Discount: Up to 25% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-09-07
-- Trustpilot: 3.4/5 (963 reviews)
+- Last verified: 2026-10-01
+- Trustpilot: 3.3/5 (1063 reviews)
 - Activate: https://propfirmdiscount.com/go/finotivefunding
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Current deals (newest first)
 
+- 2026-10-01 - Finotive Funding: 50% Off Evaluation and Instant Funding Accounts (50%)
+- 2026-09-21 - Finotive Funding 50% Off All Evaluation and Instant Funding Accounts (50%)
 - 2026-09-07 - Finotive Funding Labor Day: 40% Off All Evaluation Accounts (40%)
 - 2026-08-15 - Finotive Funding 50% Off All Evaluation Accounts (50%)
 - 2026-08-14 - Finotive Funding 40% Off Instant Accounts Lowers Initial Purchase Price (40%)
-- 2026-08-14 - Finotive Funding 30% Off 1-Step Challenge Accounts Lowers Upfront Entry Cost (30%)
-- 2026-08-07 - Finotive Funding: 45% Off $200K 2-Step and 30% Off Other Accounts (45%)

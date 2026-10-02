@@ -9,7 +9,7 @@ At CK Capital, integrity, transparency, and trader success are at the core of ev
 - Discount: Up to 10% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last verified: 2026-09-06
-- Trustpilot: 3.6/5 (437 reviews)
+- Trustpilot: 3.1/5 (410 reviews)
 - Activate: https://propfirmdiscount.com/go/ckcapital
 - Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

@@ -4,7 +4,18 @@
 
 ## Top October 2026 Discount Codes
 
-No firm has a campaign this month yet; the standing ranking lives at https://propfirmdiscount.com/best-prop-firm-discounts/.
+| # | Prop firm | Discount code | Discount | Checked | Firm page |
+|---|---|---|---|---|---|
+| 1 | Phidias Propfirm | PFD | 80% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | Funded Hero | PFD | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 3 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 4 | FundYourFX | OCTA60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 5 | Alpha Trader Firm | HALLOWEEN | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
+| 6 | FundedSquad | 2YEARS | 40% | October 2026 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
+| 7 | Blueberry Funded | PRIMEBG | 35% | October 2026 | https://propfirmdiscount.com/prop-firm/blueberry-funded/ |
+| 8 | FTUK | PAYOUT35 | 35% | October 2026 | https://propfirmdiscount.com/prop-firm/ftuk/ |
+| 9 | BluSky Trading | ARROW | 30% | October 2026 | https://propfirmdiscount.com/prop-firm/blusky-trading/ |
+| 10 | AquaFunded | PFD | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 
 ## Exclusive Prop Firm Discount Codes
 
@@ -16,42 +27,42 @@ No firm has a campaign this month yet; the standing ranking lives at https://pro
 | 4 | FundedSeat | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
 | 5 | Lucid Trading | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | 6 | Top One Futures | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 7 | Blue Guardian | PFD | 30% | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 8 | E8 Markets | CHUN | 30% | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| 9 | AquaFunded | PFD | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 7 | E8 Markets | CHUN | 30% | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| 8 | AquaFunded | PFD | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 9 | Blue Guardian | PFD | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | 10 | TX3 Funding | PFDC | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 
 ## Current deals (newest first)
 
 | Published | Firm | Deal | Price | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-02 | BluSky Trading | BluSky Trading: 30% Off Propel and $300 Off Instant Funding Accounts | 30% | ARROW | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-30-percent-300-off-promotion/ |
+| 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% | HALLOWEEN | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
+| 2026-10-01 | Top One Trader | Top One Trader 40% Off $500K-$1M Instant Funding Launch | 40% |  | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/ |
+| 2026-10-01 | Phidias Propfirm | Phidias Propfirm $10,000 Challenge Entry for $30 | Only $30 | PHIDIAS | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/ |
+| 2026-10-01 | Blueberry Funded | Blueberry Funded 35% Off Prime Challenge and Second Account | 35% | PRIMEBG | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-prime-challenge/ |
+| 2026-10-01 | FTUK | FTUK: 35% Off Instant Funding Evaluation Price | 35% | PAYOUT35 | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding/ |
+| 2026-10-01 | FundedSquad | FundedSquad 40% Off All Evaluation Models | 40% | 2YEARS | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/ |
+| 2026-10-01 | FundYourFX | FundYourFX 60% Off Entry Cost Extension | 60% | OCTA60 | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-extension/ |
+| 2026-10-01 | QT Funded | QT Funded October Promotion: 60% Off Evaluation Prices Plus Extra Account | 60% | 60PLUS | https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/ |
+| 2026-10-01 | FundedNext | FundedNext Lowered Pricing: Stellar Accounts From $29.99 | Only $29.99 | STOCT | https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/ |
+| 2026-10-01 | AquaFunded | AquaFunded Autumn Sale: 25% Off Evaluation Cost and 150% Refund | 25% | AUTUMN | https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-sale-25-off-refund/ |
+| 2026-10-01 | Finotive Funding | Finotive Funding: 50% Off Evaluation and Instant Funding Accounts | 50% | OCT50 | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/ |
+| 2026-10-01 | Funded Hero | Funded Hero 65% Off Evaluation Accounts | 65% | Email65 | https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/ |
+| 2026-10-01 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Every Classic Size Evaluation | 30% | FALL30 | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-sizes/ |
+| 2026-09-30 | Goat Funded Trader | Goat Funded Trader: 50% Off All Plans | 50% | PAYWEEK50 | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-all-plans-2/ |
+| 2026-09-30 | Funding Your Trades | Funding Your Trades 40% Off and Buy 1 Get 3 Evaluation Accounts | 40% | AWARD40 | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-40-off-buy-1-get-3-2/ |
+| 2026-09-30 | City Traders Imperium (CTI) | City Traders Imperium (CTI): 10% Off Direct Funding Accounts | 10% | PROOF10 | https://propfirmdiscount.com/deals/city-traders-imperium/cti-10-off-direct-funding/ |
+| 2026-09-29 | Tradeify | Tradeify 50% Off All FX Accounts: Is the Launch Pricing Right for You? | 50% | LAUNCH | https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-launch/ |
+| 2026-09-29 | Blueberry Funded | Blueberry Funded: 30% Off and BOGO on Instant Elite Accounts | 30% | ELITEFAST | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-bogo-instant-elite-2/ |
+| 2026-09-29 | Blueberry Funded | Blueberry Funded: 35% Off and BOGO on Prime Evaluation Accounts | 35% | PRIMEBO | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-bogo-prime/ |
+| 2026-09-29 | We Get Funded | We Get Funded Buy 1 Get 3 Free Accounts Promotion | Buy 1 Get 3 | T3FIN | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-buy-1-get-3-free-promotion-2/ |
+| 2026-09-29 | RebelsFunding | RebelsFunding 70% Off $1,000 Evaluation Accounts For €3 | 70% | JUST3 | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3/ |
+| 2026-09-28 | Funded Trading Plus (FT+) | Funded Trading Plus (FT+) 20% Discount & 9% Drawdown Upgrade | 20% | ROOM20 | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-2-step-drawdown-discount/ |
+| 2026-09-28 | Funded Trading Plus (FT+) | Funded Trading Plus (FT+) 20% Discount & 90% Split Upgrade | 20% | SPLIT20 | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-1-step-discount-profit-split/ |
+| 2026-09-28 | Funded Trading Plus (FT+) | Funded Trading Plus (FT+) 20% Discount & $5 Million Scaling Upgrade | 20% | SCALE20 | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-instant-funding-scaling-discount/ |
+| 2026-09-28 | FTUK | FTUK 40% Off Forex Instant Accounts Upfront Cost | 40% | MAX40 | https://propfirmdiscount.com/deals/ftuk/ftuk-40-percent-off-instant-accounts/ |
+| 2026-09-28 | PipFarm | PipFarm 70% Off and 10% Cashback Evaluation Price | 70% | BUILD | https://propfirmdiscount.com/deals/pipfarm/70-off-10-cashback-limited/ |
+| 2026-09-28 | Ment Funding | Ment Funding 25% Off Evaluation Accounts: Entry Cost Reduction | 25% | LASTCALL25 | https://propfirmdiscount.com/deals/ment-funding/ment-funding-25-percent-discount-september-30/ |
+| 2026-09-28 | Tradexprop | Tradexprop 25% Off Instant Funding Plans | 25% | MDAY25 | https://propfirmdiscount.com/deals/tradexprop/tradexprop-25-off-instant-funding-plans/ |
 | 2026-09-26 | OFP Funding | OFP Funding: 50% Off Trading Challenges & Bonus Account Over $250 | 50% | OFP50 | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-discount-free-account/ |
-| 2026-09-16 | Titan Capital | Titan Capital 50% Off Any Evaluation and Free Second Account | 50% | T50 | https://propfirmdiscount.com/deals/titan-capital/titan-capital-50-off-free-account/ |
-| 2026-09-15 | FundedNext | FundedNext 20% Off New or 15% Off Existing 50K Stellar Evaluation Accounts | 20% | STELLAR09 | https://propfirmdiscount.com/deals/fundednext/fundednext-20-off-50k-stellar-discount/ |
-| 2026-09-15 | RebelsFunding | RebelsFunding 73% Discount on $5,000 Trading Challenges | 73% | JUST7 | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-percent-discount-5000-program/ |
-| 2026-09-15 | Fintokei | Fintokei 25% Off SwiftTrader Accounts up to $50,000 Lowers Entry Fee | 25% | INBOXSWIFT25 | https://propfirmdiscount.com/deals/fintokei/fintokei-swifttrader-25-percent-discount/ |
-| 2026-09-15 | FTUK | FTUK 30% Off All Forex and Futures Accounts Plus 20% Payout Boost | 30% | MOMENTUM30 | https://propfirmdiscount.com/deals/ftuk/ftuk-30-off-forex-futures-accounts-5/ |
-| 2026-09-15 | Upcomers | Upcomers Promotion: Free Bonus Account on $50K+ Evaluations | Free Bonus Account | BOGO90 | https://propfirmdiscount.com/deals/upcomers/upcomers-free-perps-account-promo/ |
-| 2026-09-14 | Funding Your Trades | Funding Your Trades 50% Off Challenge Pricing Valid Tonight Only | 50% | COMEBACK50 | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-50-discount/ |
-| 2026-09-14 | Ment Funding | Ment Funding 16% Off Challenge Fee: What Changes vs Evaluation Rules | 16% | RETURNSDAY | https://propfirmdiscount.com/deals/ment-funding/ment-funding-16-percent-discount/ |
-| 2026-09-13 | FundingTraders | FundingTraders 50% Off 100k+ Accounts Evaluation Cost Decision | 50% | MENTOR | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-accounts-2/ |
-| 2026-09-12 | Plutus Trade Base | Plutus Trade Base 50% Off Challenge Pricing | 50% | VIP-50X | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-challenge-pricing/ |
-| 2026-09-12 | Plutus Trade Base | Plutus Trade Base 50% Off Evaluation Accounts | 50% | LABOR-50X | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-evaluation-accounts/ |
-| 2026-09-12 | Phoenix Trader Funding | Phoenix Trader Funding: 20% Off 10K And 25K Spark Accounts From $35.20 | 20% | AUTUMN | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-20-off-spark/ |
-| 2026-09-11 | AudaCity Capital | AudaCity Capital 35% Off All Programs Back to Business | 35% | AC35 | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-all-programs/ |
-| 2026-09-11 | Instant Funding | Instant Funding 30% Discount & Free 90% Profit Split Evaluation Pricing | 30% | IF90PS | https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-discount-90-profit-split/ |
-| 2026-09-11 | AquaFunded | AquaFunded Autumn Promotion: 30% Off Evaluation Entry Fee | 30% | FALL | https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-promotion-30-off/ |
-| 2026-09-11 | Instant Funding | Instant Funding 40% Off One-Phase Clarity Evaluations | 40% | FLASH40 | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-one-phase-clarity/ |
-| 2026-09-11 | WSFunded | WSFunded 50% Off ELITE Challenge Entry Fee | 50% | ELITE | https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-percent-off-elite-challenge/ |
-| 2026-09-11 | FundYourFX | FundYourFX 50% Off Instant Funding Accounts | 50% | SEPT50 | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-50-discount-instant-funding/ |
-| 2026-09-11 | Fintokei | Fintokei: 10% Off ProTrader $50,000 Challenges Plus Free $5,000 Account | 10% | COMBOTRADER | https://propfirmdiscount.com/deals/fintokei/fintokei-10-discount-free-5k-account-protrader/ |
-| 2026-09-10 | Funded Hero Futures | Funded Hero Futures 70% Off 10k to 100k Instant Accounts Upfront Purchase Cost | 70% | INSTANT70 | https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-10k-100k-instant-accounts/ |
-| 2026-09-10 | Funded Hero | Funded Hero: 60% Off Challenge Pricing and 10% Payout Bonus | 60% | PAY60 | https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-payout-bonus/ |
-| 2026-09-10 | Blueberry Funded | Blueberry Funded: 30% Off and Free Second Account on Instant Elite | 30% | ELITEBG | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-bogo-instant-elite/ |
-| 2026-09-10 | RebelsFunding | RebelsFunding: 70% Off 2-Step $1,000 and $5,000 Evaluation Accounts | 70% | ONLY14 | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-2-step/ |
-| 2026-09-10 | FundingTraders | FundingTraders 50% Discount on All Accounts Lowers Challenge Pricing | 50% | MATRIX | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-percent-discount-all-accounts-2/ |
-| 2026-09-09 | Purdia Capital | Purdia Capital: 60% Off First 100K Instant Funding and Evaluation Accounts | 60% | SEPT60 | https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-60-off-first-purchase/ |
-| 2026-09-09 | Phidias Propfirm | Phidias Propfirm Equinox Sale: Up to 80% Off Evaluations & Accounts | 80% | EQUINOX | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-equinox-sale-80-off/ |
-| 2026-09-09 | QT Funded | QT Funded 60% Off Entry Fee + Bonus Account on $5K-$200K Evaluations | 60% | TRADERS | https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-bonus-account-2/ |
-| 2026-09-09 | Funded Elite | Funded Elite: 5 Evaluation Accounts For $5 Total Upfront Fee | Only $5 | FLASH5 | https://propfirmdiscount.com/deals/funded-elite/funded-elite-5-accounts-5-dollars-deal/ |
-| 2026-09-09 | City Traders Imperium (CTI) | City Traders Imperium (CTI): 15% Off 1-Step, 2-Step and Instant Funding | 15% | SCALP15 | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-evaluation-instant-funding/ |

@@ -25,7 +25,7 @@ Note: the `discount` field is the code's headline discount. Per-plan percentages
 
 ## Freshness
 
-Last synced: 2026-10-02T07:30:03Z (auto, hourly)
+Last synced: 2026-10-02T07:32:26Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour.
 

@@ -7,7 +7,7 @@ With top-notch UI/UX and cutting-edge in-house technology, we provide exceptiona
 - Discount: Up to 90% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last verified: 2026-09-15
-- Trustpilot: 3.9/5 (443 reviews)
+- Trustpilot: 3/5 (582 reviews)
 - Activate: https://propfirmdiscount.com/go/upcomers
 - Firm page: https://propfirmdiscount.com/prop-firm/upcomers/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

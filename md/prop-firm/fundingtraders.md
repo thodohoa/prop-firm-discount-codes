@@ -7,7 +7,7 @@ Led by a veteran Wall Street Trader.
 - Discount: Up to 50% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last verified: 2026-09-13
-- Trustpilot: 3.5/5 (3302 reviews)
+- Trustpilot: 3.2/5 (3259 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

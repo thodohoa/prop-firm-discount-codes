@@ -8,7 +8,7 @@ With advanced account analytics, educational resources, and dedicated trader sup
 - Discount: Up to 10% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last verified: 2026-06-12
-- Trustpilot: 4.3/5 (243 reviews)
+- Trustpilot: 3.6/5 (265 reviews)
 - Activate: https://propfirmdiscount.com/go/forexfundsflow
 - Firm page: https://propfirmdiscount.com/prop-firm/forex-funds-flow/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

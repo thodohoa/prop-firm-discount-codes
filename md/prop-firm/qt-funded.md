@@ -7,16 +7,16 @@ At QT Funded, our mission is to ensure a seamless trading experience. We equip o
 - Code: PFD
 - Discount: Up to 60% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-09-09
-- Trustpilot: 4.1/5 (12616 reviews)
+- Last verified: 2026-10-01
+- Trustpilot: 3.6/5 (13259 reviews)
 - Activate: https://propfirmdiscount.com/go/qtfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Current deals (newest first)
 
+- 2026-10-01 - QT Funded October Promotion: 60% Off Evaluation Prices Plus Extra Account (60%)
 - 2026-09-09 - QT Funded 60% Off Entry Fee + Bonus Account on $5K-$200K Evaluations (60%)
 - 2026-09-07 - QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account (55%)
 - 2026-09-02 - QT Funded 50% Off and Free Account on $5K to $100K Challenges (50%)
 - 2026-08-11 - QT Funded: 60% Off Challenge Pricing and Second Account Entitlement (60%)
-- 2026-08-04 - QT Funded: 55% Off Instant Funding Accounts and Bonus Half-Size Account (55%)

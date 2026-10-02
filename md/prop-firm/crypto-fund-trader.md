@@ -4,7 +4,7 @@
 - Discount: Up to 5% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last verified: 2026-04-30
-- Trustpilot: 4.3/5 (1128 reviews)
+- Trustpilot: 4.2/5 (1095 reviews)
 - Activate: https://propfirmdiscount.com/go/cryptofundtrader
 - Firm page: https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

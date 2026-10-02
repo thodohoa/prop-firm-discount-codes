@@ -4,6 +4,7 @@
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|
+| 2026-10-01 | Top One Trader | Top One Trader 40% Off $500K-$1M Instant Funding Launch | 40% OFF | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/ |
 | 2026-09-08 | Direct Funded Trader | Direct Funded Trader: 5K Evaluation Accounts for $5 Entry Fee | Only $5 | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5k-account-5-deal/ |
 | 2026-09-02 | Trade The Pool | Trade The Pool Labor Day Offer: 15% Off All Evaluation Accounts | 15% OFF | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/ |
 | 2026-09-01 | Top One Futures | Top One Futures: Up to 50% Off and BOGO Packages from $39 Evaluation Price |  | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/ |
@@ -33,4 +34,3 @@
 | 2026-05-26 | Funded Elite | Funded Elite 25% Off The Catalyst Launch Pricing | 25% OFF | https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-catalyst/ |
 | 2026-05-26 | Forex Funds Flow | Forex Funds Flow Offers 2.5k Instant Boost and 5k 2-Step Accounts for $49 | Only $49 | https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-49-dollar-accounts/ |
 | 2026-05-23 | Funding Your Trades | Funding Your Trades: $100K 1 Step Prime Account Reduced to $297 | 40% OFF | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-100k-1-step-prime-297-deal/ |
-| 2026-05-23 | Breakout Prop | Breakout Prop – Up to 42% Off All Plans ($5K to $200K) | 42% OFF | https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-42-off-deal/ |

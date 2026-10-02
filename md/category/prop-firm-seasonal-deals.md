@@ -4,6 +4,8 @@
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|
+| 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
+| 2026-10-01 | FundedSquad | FundedSquad 40% Off All Evaluation Models | 40% OFF | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/ |
 | 2026-09-07 | QT Funded | QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account | 55% OFF | https://propfirmdiscount.com/deals/qt-funded/qt-funded-labor-day-55-percent-discount/ |
 | 2026-09-07 | Finotive Funding | Finotive Funding Labor Day: 40% Off All Evaluation Accounts | 40% OFF | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-labor-day-40-off/ |
 | 2026-09-07 | ThinkCapital | ThinkCapital 20% Discount on $2,500 – $50,000 Accounts | 20% OFF | https://propfirmdiscount.com/deals/thinkcapital/labor-day-20-discount-2500-50000/ |
@@ -32,5 +34,3 @@
 | 2026-07-04 | FundedSquad | FundedSquad 40% Off All Evaluation and Instant Funding Models | 40% OFF | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-independence-day-40-percent-off/ |
 | 2026-07-03 | Hola Prime | Hola Prime 30% Off Forex Direct Accounts – Independence Day Promotion | 30% OFF | https://propfirmdiscount.com/deals/hola-prime/hola-prime-30-off-forex-direct-accounts-independence-day/ |
 | 2026-07-03 | Funded Hero | Funded Hero: 65% Off All Evaluations Purchase Structure | 65% OFF | https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-independence-day/ |
-| 2026-07-03 | Funded Hero Futures | Funded Hero Futures 70% Off Promotion Lowers Upfront Entry Cost for All Trading Challenges | 70% OFF | https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-independence-day/ |
-| 2026-07-03 | ThinkCapital | ThinkCapital 20% Off $2,500 to $50,000 Accounts | 20% OFF | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-independence-day/ |

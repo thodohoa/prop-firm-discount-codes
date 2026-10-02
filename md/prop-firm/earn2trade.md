@@ -6,7 +6,7 @@
 - Discount: Up to 60% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last verified: 2026-05-26
-- Trustpilot: 4.7/5 (4836 reviews)
+- Trustpilot: 4.6/5 (5011 reviews)
 - Activate: https://propfirmdiscount.com/go/earn2trade
 - Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

@@ -4,7 +4,7 @@
 - Discount: Up to 15% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last verified: 2026-09-02
-- Trustpilot: 3.9/5 (1590 reviews)
+- Trustpilot: 4/5 (1768 reviews)
 - Activate: https://propfirmdiscount.com/go/fortraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fortraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

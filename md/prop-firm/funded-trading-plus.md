@@ -11,16 +11,16 @@ simon@fundedtradingplus.com
 - Code: PFD
 - Discount: Up to 10% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-08-26
-- Trustpilot: 4.4/5 (2652 reviews)
+- Last verified: 2026-09-28
+- Trustpilot: 4.2/5 (2666 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedtradingplus
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Current deals (newest first)
 
+- 2026-09-28 - Funded Trading Plus (FT+) 20% Discount &amp; 9% Drawdown Upgrade (20%)
+- 2026-09-28 - Funded Trading Plus (FT+) 20% Discount &amp; 90% Split Upgrade (20%)
+- 2026-09-28 - Funded Trading Plus (FT+) 20% Discount &amp; $5 Million Scaling Upgrade (20%)
+- 2026-09-17 - Funded Trading Plus (FT+) 20% Off and 90% Profit Split Upgrade on Account Purchase Cost (20%)
 - 2026-08-26 - Funded Trading Plus (FT+) 40% Off 100K and 200K Programs: Upfront Entry Cost Analysis (40%)
-- 2026-08-24 - Funded Trading Plus (FT+) 30% Off Challenge Fees Across All Account Sizes (30%)
-- 2026-08-19 - Funded Trading Plus (FT+) 40% Off All Programs: Entry Cost Overview (40%)
-- 2026-08-12 - Funded Trading Plus (FT+) 40% Off Instant Funding Entry Cost Decision (40%)
-- 2026-08-06 - Funded Trading Plus (FT+) 50% Off $10k 1-Step Express Challenge for $49.50 (50%)
