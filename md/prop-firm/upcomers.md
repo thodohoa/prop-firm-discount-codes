@@ -6,7 +6,7 @@ With top-notch UI/UX and cutting-edge in-house technology, we provide exceptiona
 - Code: PFD
 - Discount: Up to 90% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-09-15
+- Last deal published: 2026-09-15
 - Trustpilot: 3/5 (582 reviews)
 - Activate: https://propfirmdiscount.com/go/upcomers
 - Firm page: https://propfirmdiscount.com/prop-firm/upcomers/

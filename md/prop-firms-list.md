@@ -2,7 +2,7 @@
 
 > Alphabetical directory of every firm with a standing code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
-| Prop firm | Code | Discount | Valid from | Valid until | Last verified | Firm page |
+| Prop firm | Code | Discount | Valid from | Valid until | Last deal published | Firm page |
 |---|---|---|---|---|---|---|
 | Alpha Futures | Tran009503 | 15% | 2026-01-01 | 2026-12-31 | 2026-07-23 | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
 | AquaFunded | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/aquafunded/ |

@@ -8,7 +8,7 @@ Trade with ThinkCapital and manage up to $1M.
 - Code: PFD
 - Discount: Up to 10% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-09-21
+- Last deal published: 2026-09-21
 - Trustpilot: 4/5 (611 reviews)
 - Activate: https://propfirmdiscount.com/go/thinkcapital
 - Firm page: https://propfirmdiscount.com/prop-firm/thinkcapital/

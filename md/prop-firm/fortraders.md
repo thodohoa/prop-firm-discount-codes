@@ -3,7 +3,7 @@
 - Code: 1DGSOBYHEB
 - Discount: Up to 15% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-09-02
+- Last deal published: 2026-09-02
 - Trustpilot: 4/5 (1768 reviews)
 - Activate: https://propfirmdiscount.com/go/fortraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fortraders/

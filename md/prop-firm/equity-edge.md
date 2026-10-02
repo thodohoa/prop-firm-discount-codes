@@ -7,7 +7,7 @@ Join our growing community, where collaboration meets opportunity. Whether youâ€
 - Code: PFD
 - Discount: Up to 20% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-08-03
+- Last deal published: 2026-08-03
 - Trustpilot: 4.2/5 (2338 reviews)
 - Activate: https://propfirmdiscount.com/go/equityedge
 - Firm page: https://propfirmdiscount.com/prop-firm/equity-edge/

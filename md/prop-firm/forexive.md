@@ -5,7 +5,7 @@
 - Code: WHCTXQHRIG
 - Discount: Up to 10% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-06-07
+- Last deal published: 2026-06-07
 - Trustpilot: 3.7/5 (103 reviews)
 - Activate: https://propfirmdiscount.com/go/forexive
 - Firm page: https://propfirmdiscount.com/prop-firm/forexive/

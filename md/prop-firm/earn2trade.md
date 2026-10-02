@@ -5,7 +5,7 @@
 - Code: PFD
 - Discount: Up to 60% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-05-26
+- Last deal published: 2026-05-26
 - Trustpilot: 4.6/5 (5011 reviews)
 - Activate: https://propfirmdiscount.com/go/earn2trade
 - Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/

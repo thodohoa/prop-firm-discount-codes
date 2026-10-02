@@ -5,7 +5,7 @@
 - Code: qzEKr4EnSPK8GXYz5Mit-A
 - Discount: Up to 10% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-09-21
+- Last deal published: 2026-09-21
 - Trustpilot: 3.4/5 (572 reviews)
 - Activate: https://propfirmdiscount.com/go/brightfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bright-funded/

@@ -3,7 +3,7 @@
 - Code: PFDC
 - Discount: Up to 25% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-08-13
+- Last deal published: 2026-08-13
 - Trustpilot: 3.1/5 (4322 reviews)
 - Activate: https://propfirmdiscount.com/go/tx3funding
 - Firm page: https://propfirmdiscount.com/prop-firm/tx3-funding/

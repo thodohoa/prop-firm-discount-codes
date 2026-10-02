@@ -37,7 +37,7 @@ code
 discount
 valid_from
 valid_until
-last_verified
+last_deal_published
 activation_link
 archive_url
 trustpilot_score
@@ -50,8 +50,8 @@ valid_from and valid_until are ISO 8601 dates covering the current
 calendar year: standing codes are re-verified yearly and the window
 rolls over every January 1.
 
-last_verified is the ISO 8601 date the PropFirmDiscount team last
-confirmed the firm's newest code live (the newest deal's publish date).
+last_deal_published is the ISO 8601 date the firm's newest coded deal
+went live on this site, not a claim the code was re-checked that day.
 
 trustpilot_score, trustpilot_reviews, description and logo are
 optional fields, present when data exists.

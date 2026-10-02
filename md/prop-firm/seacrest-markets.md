@@ -8,7 +8,7 @@ Trade smarter. Trade faster. Trade with confidence at Seacrest Markets.
 - Code: jackichun
 - Discount: Up to 5% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-01-02
+- Last deal published: 2026-01-02
 - Trustpilot: 4.2/5 (2873 reviews)
 - Activate: https://propfirmdiscount.com/go/seacrestfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/seacrest-markets/

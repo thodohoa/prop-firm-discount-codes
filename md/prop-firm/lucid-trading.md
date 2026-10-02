@@ -5,7 +5,7 @@
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-05-18
+- Last deal published: 2026-05-18
 - Trustpilot: 4.3/5 (6054 reviews)
 - Activate: https://propfirmdiscount.com/go/lucidtrading
 - Firm page: https://propfirmdiscount.com/prop-firm/lucid-trading/

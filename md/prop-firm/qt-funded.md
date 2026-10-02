@@ -7,7 +7,7 @@ At QT Funded, our mission is to ensure a seamless trading experience. We equip o
 - Code: PFD
 - Discount: Up to 60% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-10-01
+- Last deal published: 2026-10-01
 - Trustpilot: 3.6/5 (13259 reviews)
 - Activate: https://propfirmdiscount.com/go/qtfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/

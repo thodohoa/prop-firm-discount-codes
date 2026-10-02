@@ -7,7 +7,7 @@ A similar attitude toward leadership, and innovation and is presented in how we 
 - Code: WWS4GW
 - Discount: Up to 10% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-01-16
+- Last deal published: 2026-01-16
 - Trustpilot: 4.4/5 (862 reviews)
 - Activate: https://propfirmdiscount.com/go/tradethepool
 - Firm page: https://propfirmdiscount.com/prop-firm/trade-the-pool/

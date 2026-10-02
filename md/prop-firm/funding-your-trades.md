@@ -8,7 +8,7 @@ That’s why we invite you to explore our website, social media, Discord, trader
 - Code: PFDC
 - Discount: Up to 2% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-09-30
+- Last deal published: 2026-09-30
 - Trustpilot: 2.9/5 (131 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingyourtrades
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-your-trades/

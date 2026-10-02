@@ -3,7 +3,7 @@
 - Code: AFF1864062
 - Discount: Up to 10% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-09-09
+- Last deal published: 2026-09-09
 - Trustpilot: 4.2/5 (742 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedelite
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/

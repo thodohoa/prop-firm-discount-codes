@@ -8,7 +8,7 @@ We are committed to continuously improving the trading experience and building a
 - Code: ptb463970
 - Discount: Up to 15% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-09-12
+- Last deal published: 2026-09-12
 - Trustpilot: 3.6/5 (1174 reviews)
 - Activate: https://propfirmdiscount.com/go/plutustradebase
 - Firm page: https://propfirmdiscount.com/prop-firm/plutus-trade-base/

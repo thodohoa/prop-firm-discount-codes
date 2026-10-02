@@ -5,7 +5,7 @@
 - Code: CHUN
 - Discount: Up to 30% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-06-01
+- Last deal published: 2026-06-01
 - Trustpilot: 4.1/5 (3298 reviews)
 - Activate: https://propfirmdiscount.com/go/e8funding
 - Firm page: https://propfirmdiscount.com/prop-firm/e8-funding/

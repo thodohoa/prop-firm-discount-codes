@@ -5,7 +5,7 @@
 - Code: PFD
 - Discount: Up to 20% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-08-30
+- Last deal published: 2026-08-30
 - Trustpilot: 3.9/5 (2351 reviews)
 - Activate: https://propfirmdiscount.com/go/wemastertrade
 - Firm page: https://propfirmdiscount.com/prop-firm/wemastertrade/

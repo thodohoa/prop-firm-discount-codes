@@ -3,7 +3,7 @@
 - Code: 05EB577C
 - Discount: Up to 40% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2025-12-19
+- Last deal published: 2025-12-19
 - Activate: https://propfirmdiscount.com/go/fundingticks
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingticks/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

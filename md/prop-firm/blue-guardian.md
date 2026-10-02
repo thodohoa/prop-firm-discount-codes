@@ -6,7 +6,7 @@ Therefore, our goal became clear as we seek to find and accredit smart traders g
 - Code: PFD
 - Discount: Up to 25% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-08-17
+- Last deal published: 2026-08-17
 - Trustpilot: 3.3/5 (2095 reviews)
 - Activate: https://propfirmdiscount.com/go/blueguardian
 - Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/

@@ -8,7 +8,7 @@ We’re more than just a prop firm we’re your partner in trading success. At F
 - Code: PFD
 - Discount: Up to 65% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-10-01
+- Last deal published: 2026-10-01
 - Trustpilot: 4/5 (425 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedhero
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero/

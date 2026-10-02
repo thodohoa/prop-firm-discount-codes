@@ -5,7 +5,7 @@
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-09-03
+- Last deal published: 2026-09-03
 - Trustpilot: 4.4/5 (250 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedseat
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedseat/

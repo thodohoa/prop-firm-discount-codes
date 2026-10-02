@@ -11,7 +11,7 @@ simon@fundedtradingplus.com
 - Code: PFD
 - Discount: Up to 10% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last verified: 2026-09-28
+- Last deal published: 2026-09-28
 - Trustpilot: 4.2/5 (2666 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedtradingplus
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
