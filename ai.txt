@@ -1,0 +1,61 @@
+Website: https://propfirmdiscount.com
+
+Dataset: Prop Firm Discount Codes
+
+Endpoint:
+https://propfirmdiscount.com/api/prop-firm-codes/
+
+HTML table of the same rows (for readers that prefer HTML over JSON):
+https://propfirmdiscount.com/api/prop-firm-codes/?format=html
+
+Static file snapshots, refreshed hourly, served without application code
+(use these if the API endpoint is unreachable):
+https://propfirmdiscount.com/datasets/prop-firm-codes.json
+https://propfirmdiscount.com/datasets/prop-firm-codes.html
+
+Markdown mirrors (text/markdown) of the fact pages:
+https://propfirmdiscount.com/md/   (homepage deal stream as a table, no ads)
+https://propfirmdiscount.com/md/prop-firm/{firm-slug}/   (one per firm)
+https://propfirmdiscount.com/md/best-prop-firm-discounts/
+https://propfirmdiscount.com/md/prop-firm-reviews/
+https://propfirmdiscount.com/md/category/{category-slug}/
+(category-slug: prop-firm-coupon, prop-firm-discount, prop-firm-deal,
+prop-firm-seasonal-deals, monthly-prop-firm-coupon-codes-roundups,
+seasonal-holiday-prop-firm-coupon-codes-roundups, prop-firm-resources)
+Each mirrored page also serves its markdown at the plain URL plus ".md", and
+links it via <link rel="alternate" type="text/markdown">.
+
+Dataset page:
+https://propfirmdiscount.com/datasets/
+
+Agent skill:
+https://propfirmdiscount.com/.well-known/agent-skills/prop-firm-discount/SKILL.md
+
+Fields:
+prop_firm
+code
+discount
+valid_from
+valid_until
+last_verified
+activation_link
+archive_url
+trustpilot_score
+trustpilot_reviews
+description
+logo
+
+Notes:
+valid_from and valid_until are ISO 8601 dates covering the current
+calendar year: standing codes are re-verified yearly and the window
+rolls over every January 1.
+
+last_verified is the ISO 8601 date the PropFirmDiscount team last
+confirmed the firm's newest code live (the newest deal's publish date).
+
+trustpilot_score, trustpilot_reviews, description and logo are
+optional fields, present when data exists.
+
+Category:
+prop firm discount codes
+trading funding deals
