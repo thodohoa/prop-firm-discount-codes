@@ -7,7 +7,7 @@ Join Alpha Futures today and unlock your full trading potential!
 - Code: Tran009503
 - Discount: Up to 15% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-07-23
+- Last deal published: 2026-09-15
 - Trustpilot: 4.4/5 (6050 reviews)
 - Activate: https://propfirmdiscount.com/go/alphafutures
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-futures/
@@ -15,8 +15,8 @@ Join Alpha Futures today and unlock your full trading potential!
 
 ## Current deals (newest first)
 
+- 2026-09-15 - Alpha Futures 50% Off Evaluation Accounts (50%)
 - 2026-07-23 - Alpha Futures 40% Off Evaluation Pricing: Cost Analysis (40%)
 - 2026-07-08 - Alpha Futures: 35% Off All Accounts Entry Fee (35%)
+- 2026-07-01 - Alpha Futures: 25% Off Any Account Plan Entry Fee (25%)
 - 2026-06-04 - Alpha Futures 25% Off All Accounts Evaluation Pricing (25%)
-- 2026-05-20 - Alpha Futures: 50% Off Evaluation Accounts (50%)
-- 2026-05-01 - Alpha Futures: 25% Off Premium Plan Evaluation Accounts (25%)

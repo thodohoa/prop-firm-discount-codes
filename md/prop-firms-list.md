@@ -4,7 +4,7 @@
 
 | Prop firm | Code | Discount | Valid from | Valid until | Last deal published | Firm page |
 |---|---|---|---|---|---|---|
-| Alpha Futures | Tran009503 | 15% | 2026-01-01 | 2026-12-31 | 2026-07-23 | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
+| Alpha Futures | Tran009503 | 15% | 2026-01-01 | 2026-12-31 | 2026-09-15 | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
 | AquaFunded | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | Blue Guardian | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-10-02 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | BrightFunded | qzEKr4EnSPK8GXYz5Mit-A | 10% | 2026-01-01 | 2026-12-31 | 2026-09-21 | https://propfirmdiscount.com/prop-firm/bright-funded/ |
@@ -12,7 +12,7 @@
 | BullRush Prop | 7XTG8N | 5% | 2026-01-01 | 2026-12-31 | 2026-09-26 | https://propfirmdiscount.com/prop-firm/bullrush/ |
 | CK Capital | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-06 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
 | Crypto Fund Trader | platinum5 | 5% | 2026-01-01 | 2026-12-31 | 2026-04-30 | https://propfirmdiscount.com/prop-firm/crypto-fund-trader/ |
-| Direct Funded Trader | PFD | 50% | 2026-01-01 | 2026-12-31 | 2025-07-26 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
+| Direct Funded Trader | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-09-26 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 | Dominion Funding | PFD5PC | 5% | 2026-01-01 | 2026-12-31 | 2026-09-21 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
 | E8 Markets | CHUN | 50% | 2026-01-01 | 2026-12-31 | 2026-06-01 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | Earn2Trade | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-05-26 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
@@ -50,5 +50,5 @@
 | Top One Futures | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-07-13 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | Trade The Pool | WWS4GW | 10% | 2026-01-01 | 2026-12-31 | 2026-01-16 | https://propfirmdiscount.com/prop-firm/trade-the-pool/ |
 | Upcomers | PFD | 90% | 2026-01-01 | 2026-12-31 | 2026-09-15 | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| WeMasterTrade | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-08-30 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
+| WeMasterTrade | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-10-03 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
 | thePropTrade | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-07-06 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
