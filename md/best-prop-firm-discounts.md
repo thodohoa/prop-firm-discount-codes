@@ -2,7 +2,7 @@
 
 ## Top October 2026 Discount Codes
 
-As of October 2026, PropFirmDiscount tracks 12 prop firms with a verified discount code live this month. The highest offer is Phidias Propfirm code PFD for 80%. 6 of these are exclusive codes from our partnerships (they work any time); the rest are campaign codes that expire.
+As of October 2026, PropFirmDiscount tracks 13 prop firms with a verified discount code live this month. The highest offer is Phidias Propfirm code PFD for 80%. 7 of these are exclusive codes from our partnerships (they work any time); the rest are campaign codes that expire.
 
 | # | Prop firm | Discount code | Discount | Type | Checked |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@ As of October 2026, PropFirmDiscount tracks 12 prop firms with a verified discou
 | 10 | AquaFunded | PFD | 25% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 11 | Finotive Funding | JACKICHUN | 25% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
 | 12 | Phoenix Trader Funding | PFD | 20% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
+| 13 | For Traders | 1DGSOBYHEB | 15% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/fortraders/ |
 
 Ranked highest discount first. "Exclusive Code" is a code the PropFirmDiscount team distributes through our partnerships - it works any time. "Campaign Code" is a firm's own promotion, live this month but set to expire. Discounts are the maximum each firm advertises - exact % depends on the account and program.
 

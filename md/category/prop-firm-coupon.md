@@ -4,6 +4,7 @@
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|
+| 2026-10-02 | For Traders | For Traders $6K Fast 1-Step Challenge Reduced to $9.99 (79.6% Off) | 79% OFF | https://propfirmdiscount.com/deals/fortraders/for-traders-6k-fast-9-99-discount/ |
 | 2026-10-02 | BluSky Trading | BluSky Trading: 30% Off Propel and $300 Off Instant Funding Accounts | 30% OFF | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-30-percent-300-off-promotion/ |
 | 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
 | 2026-10-01 | Top One Trader | Top One Trader 40% Off $500K-$1M Instant Funding Launch | 40% OFF | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/ |
@@ -33,4 +34,3 @@
 | 2026-09-28 | PipFarm | PipFarm 70% Off and 10% Cashback Evaluation Price | 70% OFF | https://propfirmdiscount.com/deals/pipfarm/70-off-10-cashback-limited/ |
 | 2026-09-28 | Ment Funding | Ment Funding 25% Off Evaluation Accounts: Entry Cost Reduction | 25% OFF | https://propfirmdiscount.com/deals/ment-funding/ment-funding-25-percent-discount-september-30/ |
 | 2026-09-28 | Tradexprop | Tradexprop 25% Off Instant Funding Plans | 25% OFF | https://propfirmdiscount.com/deals/tradexprop/tradexprop-25-off-instant-funding-plans/ |
-| 2026-09-26 | OFP Funding | OFP Funding: 50% Off Trading Challenges & Bonus Account Over $250 | 50% OFF | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-discount-free-account/ |

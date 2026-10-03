@@ -20,7 +20,7 @@
 | FXIFY | FXIFY2WRIVW | 10% | 2026-01-01 | 2026-12-31 | 2026-09-24 | https://propfirmdiscount.com/prop-firm/fxify/ |
 | Finotive Funding | JACKICHUN | 25% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
 | Fintokei | THODO5 | 5% | 2026-01-01 | 2026-12-31 | 2026-09-15 | https://propfirmdiscount.com/prop-firm/fintokei/ |
-| For Traders | 1DGSOBYHEB | 15% | 2026-01-01 | 2026-12-31 | 2026-09-02 | https://propfirmdiscount.com/prop-firm/fortraders/ |
+| For Traders | 1DGSOBYHEB | 15% | 2026-01-01 | 2026-12-31 | 2026-10-02 | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | Forex Funds Flow | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-06-12 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
 | Forexive | WHCTXQHRIG | 10% | 2026-01-01 | 2026-12-31 | 2026-06-07 | https://propfirmdiscount.com/prop-firm/forexive/ |
 | Funded Elite | AFF1864062 | 10% | 2026-01-01 | 2026-12-31 | 2026-09-09 | https://propfirmdiscount.com/prop-firm/funded-elite/ |
