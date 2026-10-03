@@ -1,9 +1,9 @@
-# Lucid Trading - discount code PFD (Up to 50% off)
+# Lucid Trading - discount code PFD (Up to 30% off)
 
 > Lucid Trading is a funded firm that helps futures traders practice their strategies, improve risk management, and build capital as they prepare to trade in live markets. The team at Lucid Trading feels that there is an opportunity to merge elements from the new funded firms and old-school proprietary trading desks. Funded firms are an excellent starting point for aspiring traders. However, once they have proven they are ready for live markets, they need to be supported more in the way a traditional prop desk. Lucid Trading’s goal is to provide a clear path forward through all these phases.
 
 - Code: PFD
-- Discount: Up to 50% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 30% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-05-18
 - Trustpilot: 4.3/5 (6054 reviews)

@@ -11,7 +11,7 @@
 
 ## Current deals (newest first)
 
-- 2026-10-02 - For Traders $6K Fast 1-Step Challenge Reduced to $9.99 (79.6% Off) (79%)
+- 2026-10-02 - For Traders: $6K Fast Evaluation Reduced to $9.99 (79%)
 - 2026-09-02 - For Traders 50% Off London Expo Ticket Promotion (50%)
 - 2026-08-28 - For Traders: Get a $6K Evaluation Account for $9.99 (Limited to 1,000 Spots) (Only $9.99)
 - 2026-08-07 - For Traders $6K Fast Challenge: $9.99 Entry Fee (Only $9.99)

@@ -1,9 +1,9 @@
-# E8 Markets - discount code CHUN (Up to 30% off)
+# E8 Markets - discount code CHUN (Up to 50% off)
 
 > E8 Markets is the training ground where serious traders sharpen their edge, prove discipline, and cash results. We run live‑fidelity market feeds across FX, Futures, and Crypto inside a pro cockpit that measures what matters—your process. When your data shows repeatable skill, you withdraw on fast rails. No noise. No drama. Just proof → payout.
 
 - Code: CHUN
-- Discount: Up to 30% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 50% off (headline discount of the affiliate code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-06-01
 - Trustpilot: 4.1/5 (3298 reviews)
